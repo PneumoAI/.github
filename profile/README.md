@@ -6,7 +6,9 @@
 # Module
 `Asthma` `COPD` `ILD` `BC` `Allergologie` `Schlafmedizin` `TBC` `Bronchiektasen` `PAH`
 
-> [!WARNING]
+# Warnung
+
+> [!CAUTION]
 > 
 > 🧠 **Packungsbeilage – Künstliche Intelligenz (KI) zur Unterstützung medizinischer Entscheidungen**  
 > **Wirkstoff**: KI-Modul mit verantwortungsvollem Algorithmusverhalten  
