@@ -1,5 +1,10 @@
 # PneumoAI
 
+> [!NOTE]
+> In Bearbeitung ...
+
+# Module
+'Asthma' 'COPD' 'ILD' 'BC' 'Allergologie' 'Schlafmedizin' 'TBC' 'Bronchiektasen' 'PAH'
 
 **Languages and Tools:** 
 
@@ -14,3 +19,20 @@
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?logo=rabbitmq&style=social)&nbsp;&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-black?logo=Docker&style=social)&nbsp;&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?logo=Kubernetes&style=social)&nbsp;&nbsp;
+
+<!-- 
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
+-->
