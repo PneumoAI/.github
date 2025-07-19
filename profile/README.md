@@ -6,6 +6,10 @@
 # Module
 `Asthma` `COPD` `ILD` `BC` `Allergologie` `Schlafmedizin` `TBC` `Bronchiektasen` `PAH`
 
+# Sponsoren
+
+- Asthma:
+
 # Warnung / Packungsbeilage
 
 > [!CAUTION]
