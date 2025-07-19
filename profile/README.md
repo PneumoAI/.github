@@ -6,7 +6,7 @@
 # Module
 `Asthma` `COPD` `ILD` `BC` `Allergologie` `Schlafmedizin` `TBC` `Bronchiektasen` `PAH`
 
-# Warnung
+# Warnung / Packungsbeilage
 
 > [!CAUTION]
 > 
