@@ -15,7 +15,7 @@
 > **Darreichungsform**: Digital, sporadisch inspirierend  
 > 
 > ### 🩺 Anwendungsgebiete  
-> Zur Unterstützung medizinischer Fachkräfte bei der Entscheidungsfindung, Analyse komplexer Daten und zur Förderung von Gesprächen zwischen Mensch und Maschine. Nicht zur Alleinanwendung geeignet.
+> Zur Unterstützung medizinischer Fachkräfte bei der Entscheidungsfindung, Analyse komplexer Daten und zur Förderung von Gesprächen zwischen Mensch und Maschine. Nicht zur Alleinanwendung geeignet. KI kann helfen, medizinische Daten schneller zu analysieren, Muster zu erkennen und Entscheidungsprozesse zu unterstützen. Sie eignet sich besonders als Zweitmeinung mit digitalem Durchblick – aber bleibt ein Werkzeug, kein Ersatz für ärztliche Expertise.
 > 
 > ### ⚠️ Warnhinweise  
 > - KI ersetzt **nicht** ärztliches Urteilsvermögen, Bauchgefühl oder die berühmte „intuitive Diagnose beim dritten Espresso“.  
@@ -31,6 +31,12 @@
 > - strukturierten Daten → klarere Analysen
 > - Erfahrung & Empathie → bessere Patientenversorgung
 > - multiprofessionellen Teams → spannende Diskussionen und tragfähige Lösungen
+> 
+> ⚠️ Gegenanzeigen
+> Nicht verwenden bei:
+> - blindem Vertrauen in Technologie
+> - Verzicht auf ärztliches Bauchgefühl
+> - Verdrängung menschlicher Verantwortung durch digitale Effizienz
 > 
 > ### ⏱️ Dosierung  
 > - Mit Bedacht und kritisch hinterfragt verwenden.  
