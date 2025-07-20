@@ -15,6 +15,29 @@
 - [ ] PAH: next
 - [ ] BC: next
 
+# Architektur
+PneumoAI
+- Frontend (docker container)
+  - Typescript / HTML / CSS
+  - UI: React / Shadcn UI / Tailwind
+  - State management: Zustand / Tanstack Query
+  - Libs: React Hook Forms, Zod
+- Backend (docker container)
+  - Typescript
+  - Express + middleware(s)
+  - ORM: Prisma
+  - DB: SQLite + Postgres (vector embeddings)
+  - Python backend für Transcription / speaker diarezation (docker container)
+- AI
+  - Ollama (local (Mac) für GPU acceleration) oder 
+  - Ollama (docker container (Windows))
+    - Chat model: Z. B. LLAMA 3.3
+    - Embeding model: x
+  - Local Whisper (docker container)
+- App
+  - Typescript / HTML / CSS
+  - React native / Zustand / Zod 
+
 # Sponsoren
 
 - Asthma:
