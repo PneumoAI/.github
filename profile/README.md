@@ -5,10 +5,25 @@
 
 # Module
 `Asthma` `COPD` `ILD` `BC` `Allergologie` `Schlafmedizin` `TBC` `Bronchiektasen` `PAH`
+- [ ] Asthma: in Bearbeitung
+- [ ] COPD: next
+- [ ] ILD: next
+- [ ] Allergologie: next
+- [ ] Schlafmedizin: next
+- [ ] Bronchiektasen / TBC: next
+- [ ] PAH: next
+- [ ] BC: next
 
 # Sponsoren
 
 - Asthma:
+- COPD:
+- ILD:
+- Allergologie:
+- Schlafmedizin:
+- Bronchiektasen / TBC:
+- PAH:
+- BC:
 
 # Warnung / Packungsbeilage
 
