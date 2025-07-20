@@ -6,7 +6,7 @@
 # Module
 `Asthma` `COPD` `ILD` `BC` `Allergologie` `Schlafmedizin` `TBC` `Bronchiektasen` `PAH` `LAE` `Pneumonie`
 
-- [ ] Asthma: in Bearbeitung
+- [ ] 🔴 **Asthma**: in Bearbeitung
 - [ ] COPD: next
 - [ ] ILD: next
 - [ ] Allergologie: next
